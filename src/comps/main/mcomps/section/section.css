@@ -1,0 +1,6 @@
+.section{
+    width: 20vw;
+    grid-area: section;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,8 @@
+.article{
+    width: 60vw;
+    border-left: black solid 2px;
+    border-right: black solid 2px;
+    grid-area: article;
+    display: flex;
+    justify-content: center;
+}
